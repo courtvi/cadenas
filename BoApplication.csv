@@ -1,0 +1,46 @@
+name;version;manager;technology;status
+ADA-BO;1.0;fcolson fdubois DG ITEC vreding tpayeur rmaymard ;Business Objects;PROD
+ARPEGE-BO;2.1;dthomassin ariosnunez ;Business Objects;PROD
+PAM-ASSMAL-BO;V1.0.1;;Business Objects;PROD
+PAM-ASSURDEP-BO;V1.2.0;;Business Objects;PROD
+AT4AM-BO;2.4.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+WebContracts-BO;4.5.2;DG FINS spaolilli ;Business Objects;PROD
+CARMEP-BO;1.5.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+CITES-BO;3.6.6;fcolson fdubois vreding ;Business Objects;DECOMM
+CLARITY-BO;8.0;fcolson ldereggi fdubois vreding tpayeur ariosnunez rmaymard ;Business Objects;PROD
+CODADD-BO;2.7.0;fcolson fdubois DG ITEC/EVOLUTION vreding oaubertin tpayeur ;Business Objects;PROD
+CODICT-BO;2.1.1;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+EPARLIAMENT-BO;1.4.1;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+EPADES2-BO;2.1;fcolson cadrian DG ITEC/EVOLUTION ;Business Objects;DECOMM
+EPETITION2-BO;2.5;fcolson DG ITEC/EVOLUTION vreding oaubertin tpayeur ;Business Objects;PROD
+EPSD-BO;3.6.2;fcolson DG ITEC/EVOLUTION vreding oaubertin ;Business Objects;DECOMM
+FINORD-BO;5.4.4;hslimani skleim DG FINS lbuniet ;Business Objects;PROD
+FINICS-BO;5.4.4;hslimani skleim afournel lbuniet ;Business Objects;PROD
+PAM-GAP-BO;V1.4.0;;Business Objects;PROD
+GEDA-BO;3.13.3;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+GPI-Espaces-BO;1.5;rvanderraaij mricco mamabilino jmas ;Business Objects;PROD
+IPMS-BO;3.9.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+JIRA-BO;6.1;fcolson fdubois cpignon vreding tpayeur ;Business Objects;PROD
+MADIS-BO;1.1.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+MCM-BO;1.3.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+MEP-BO;2.12.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+MEPDG2-BO (MEP REPORTING);3.22.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+MIS4PRINT-BO;1.1.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+MISS-BO;1.5;dthomassin ysurmely ariosnunez ;Business Objects;PROD
+PAM-BO;2.11.1;mricco DG FINS svast ;Business Objects;PROD
+PERICLES-BO;7.1.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+PREQUEST-BO;2.1;fcolson fdubois DG ITEC/EVOLUTION vreding oaubertin ;Business Objects;DECOMM
+QE2WEB-BO;2.3;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+QPPLUS-BO;1.2.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+RDP-BO;1.1;fcolson fdubois DG ITEC/EVOLUTION vreding ;Business Objects;DECOMM
+PAM-REMU-BO;V1.0.0;;Business Objects;PROD
+SDA-BO;4.5.4;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+STATSSCE-BO;4.0.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+THINKPRO-BO;1.1.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+TOP-BO;2.18.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+TORIS-BO;4.1.1;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+VIRETRESOR-BO;1.1;dthomassin ariosnunez ;Business Objects;PROD
+VISIT-BO;5.1.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+WEM4EP-BO;2.5.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+PAM-FORMEP-BO;V1.0.0;;Business Objects;PROD
