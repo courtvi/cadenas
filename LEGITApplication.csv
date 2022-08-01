@@ -1,0 +1,80 @@
+name;version;manager;technology;status
+ACTES;3.9.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest mfstoffel hgiraud pgriesbaecher ;J2EE, Hibernate, Spring, ORACLE;PROD
+ALV;3.10.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;Oracle/Java/XML;PROD
+APIE2;;mrossi fgallone DG ITEC lliudvinaviciute ;Oracle/Omnimark;PROD
+AT4AM;2.32.1;DG IPOL galaimo ;J2EE, Hibernate, Spring, ORACLE;PROD
+Authoring Tool for Legal tEXt;;jnistaltome ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+CARTON;2.17.0;DG PRES ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;J2EE, Hibernate, Spring, ORACLE;PROD
+Contingency Tool;2.0.0;DG ITEC ofabbri phcambier ypilla mfstoffel ;JAVA;PROD
+CODICT-ADMIN;CF. CODICT;fcolson mbourcellier jjosserand ptagu beng yugur aporcher ;J2EE, Hibernate, Spring, ORACLE;PROD
+CODICT;3.24.0;fcolson mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;Oracle;PROD
+COMAP;1.0;mwams fbrogialdi DG ITEC/SUPPORT ;Excel VBA;PROD
+COVAS;COVAS-1.0.0_F;mrossi fgallone volive lliudvinaviciute ;Oracle/Java;PROD
+Planning Tool for Committees;1.10.0;DG IPOL DG EXPO galaimo ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+CRE;7.70.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;Oracle/Powerbuilder/C;PROD
+CRE2017;;jmklein clemonias ;J2EE, Hibernate, Spring, ORACLE;DV
+CRE Publication;2.0.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest mfstoffel hgiraud pgriesbaecher ;JAVA;PROD
+CREWEB;1.5.0;ofabbri ;J2EE;PROD
+WEB DHONDT SYSTEM;1.3.1;mbalsby Political Group galaimo ;HTML/Java;PROD
+WEB DHONDT SYSTEM CS;2.0.0;Political Group galaimo ;HTML/Java;PROD
+DM4EP;3.6.0;mloreng cadrian DG ITEC/EVOLUTION jcolin malambert cinvernizzi rmussard ;Oracle/Java/XML;PROD
+DM-XML;3.3.7.3;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;Java 2 (SE/EE),  XML;PROD
+DOCEP;9.10.0;hvuillaume DG ITEC DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi clemonias rmussard ;Macros WORD;PROD
+SCANPUSH;3.1.0;hvuillaume cadrian fmoncel jcolin malambert cinvernizzi clemonias rmussard ;J2EE;PROD
+Drafting Support Tool;2.32.1;DG PRES galaimo ;J2EE, Hibernate, Spring, ORACLE;PROD
+ELVIIS;3.4.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;Java 2 (SE/EE),  XML;PROD
+EPADES-REP;NAS 1.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION gbalenovic fmoncel jcolin malambert cinvernizzi rmussard ;;PROD
+FILEBEANS;4.2.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;J2EE;PROD
+EPA2MAIL;5.8.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;JAVA;PROD
+EPADCO;1.4.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;J2EE, Hibernate, Spring, ORACLE;PROD
+EPADES2;;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;Oracle;PROD
+EPADES2ADMIN;6.1.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;HTML/Java;PROD
+EPADIFF;1.2.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;JAVA;PROD
+EPAKERNEL;3.6.0;mloreng cadrian pbillard ;Oracle/JAVA/J2EE/XML/C/JNI;DECOMM
+EPAPUBLIC;7.3.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;JAVA;PROD
+EPAWS;2.4.0;mloreng hvuillaume cadrian fmoncel jcolin malambert cinvernizzi rmussard ;Oracle/JAVA/J2EE/XML/C/JNI;PROD
+E-PETITION2;2.13.2  (13 JUNE 20);preunis DG IPOL ;J2EE;PROD
+EPgreffe;2.5.1 (08 MARCH 2017);mbalsby preunis ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+EPS Admin;1.1;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;JAVA;PROD
+EPS Diffusion;1.0;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;JAVA;PROD
+EPS-PSL;1.2.0;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;Oracle/JAVA/J2EE/XML/C/JNI;PROD
+EPS-TPL;2.1;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;Oracle/JAVA/J2EE/XML/C/JNI;PROD
+EPvote;1.2.3;oleboeuf jmilitello ogrossmannn DG ITEC/CONCEPTION ;J2EE, Hibernate, Spring, ORACLE;PROD
+ESTEP;3.X;phcambier DG ITEC/EVOLUTION slambeaux ;Oracle/Java;PROD
+FLUID;5.X;fspyckerelle phcambier DG ITEC/EVOLUTION tconrad slambeaux ;J2EE;PROD
+ALFC - Alt. light FdR Communic;1;phcambier sogier slambeaux ;J2EE;PROD
+GARM;2;DG ITEC/EVOLUTION slambeaux ;Oracle/Java/XML;PROD
+GEPRO+;2.X;fspyckerelle phcambier DG ITEC/EVOLUTION tconrad slambeaux ;Oracle/JAVA/J2EE/XML/C/JNI;PROD
+PROFIL;4.X;phcambier DG ITEC/EVOLUTION slambeaux ;Oracle/Java;PROD
+SOE2;1;phcambier DG ITEC/EVOLUTION slambeaux ;C/Java EE/JNI;PROD
+T-FLOW;4.X;fspyckerelle phcambier DG ITEC/EVOLUTION tconrad slambeaux ;Oracle/Java/XML;PROD
+HEPA;3.1.0;hvuillaume DG ITEC cadrian DG ITEC/EVOLUTION gbalenovic fmoncel jcolin malambert cinvernizzi clemonias rmussard ;Macros WORD;PROD
+ITER;3.49.0 (24/04/2020);mbalsby DG PRES DG IPOL DG EXPO DG TRAD DG ITEC/EVOLUTION cmontanari ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+ITERAPI;3.49.0 (24/04/2020);cmontanari ;JAVA;PROD
+ITER Reporting module;2.8.0 (24/04/2020);DG IPOL DG ITEC cmontanari ;Java 2 (SE/EE),  XML;PROD
+Iter Tms;3.49.0 (24/04/2020);cmontanari ;JAVA;PROD
+KM Portal;2.5.12;fgallone lliudvinaviciute ;J2EE, Hibernate, Spring, ORACLE;PROD
+LDO (Liste Des Orateurs);3.2.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;Oracle/Java/XML;PROD
+eParl-OSS;1.1;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;JAVA;PROD
+PETIGREF;;preunis ;J2EE, Hibernate, Spring, ORACLE;PROD
+Petitions Portal;1.5.1 (24 FEBRUARY 2017);preunis ;HTML/Java;PROD
+PROBO;V6.2.0 (15 JUNE 2018);mkraitem preunis jpbouniol hpereira xdescamps ;Java 2 (SE/EE),  XML;PROD
+PURE-XML;4.1.0;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;Oracle/Java/XML;PROD
+PV;2.20.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure tweber bdemarest mfstoffel hgiraud pgriesbaecher ;Tamino/Java 2 (SE/EE),  XML;PROD
+QPPLUS;1.2;ogrossmannn smahgub mascorbe ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+RDM;;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;Oracle/Java/XML;PROD
+REDMAP;2.15.0;mrossi fgallone DG ITEC lliudvinaviciute ;J2EE, Hibernate, Spring, ORACLE;PROD
+REGISTRE;(CF MODULES DANS LA DESC);DG ITEC cbouzas llamorte ;HTML/Java;PROD
+SCHED;3.9.0;DG PRES ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+SDA;4.6.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;HTML/Java;PROD
+mySearch;1.1.1;mrossi fgallone lliudvinaviciute ;Lucène - elasticsearch;PROD
+CIBA;8.12.2;cadrian DG ITEC/EVOLUTION jjosserand fmoncel clemonias ;HTML/Java;PROD
+SIMPLE;3.7.0;ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;Java 2 (SE/EE),  XML;PROD
+META;3.6.0;DG PRES ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;J2EE;PROD
+TELES;;;;INCONNU
+TOP;6.4.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;Oracle/JAVA/J2EE/XML/C/JNI;PROD
+TORIS;9.1.1;DG PRES ofabbri phcambier DG ITEC/EVOLUTION ypilla mlahure bdemarest jbponcin mfstoffel hgiraud pgriesbaecher ;J2EE;PROD
+Trilogue Table Editor;0;DG IPOL galari ;J2EE, Hibernate, Spring, ORACLE;DV
+XIDOC;4.4.0;mloreng hvuillaume cadrian DG ITEC/EVOLUTION fmoncel jcolin malambert cinvernizzi rmussard ;Oracle/Java;PROD
+XML4EP Library;3.0.3.7;rvillar oleboeuf DG ITEC scharpiot vthumatty tcozzi gpagkos jmilitello knoviseth ;JAVA;PROD
+Xenat;;clemonias ;;PROD

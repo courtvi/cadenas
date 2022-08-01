@@ -1,0 +1,145 @@
+name;version;manager;technology;status
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+RSS;1.32;purbain cbouzas ;Oracle/Java;PROD
+AWS;1.4.7;purbain cbouzas ;Oracle/Java/XML;DECOMM
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+XCONV;5.2;purbain cbouzas ;XML/PDF/Word;PROD
+CARMEP-BO;1.5.0;fcolson fdubois vreding tpayeur ;Business Objects;PROD
+CARMEP;1.3.3;mamabilino DG INLO DG ITEC/EVOLUTION vdreux jyhubert jmas ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+FINORD-BO;5.4.4;hslimani skleim DG FINS lbuniet ;Business Objects;PROD
+FINORD-BO;5.4.4;hslimani skleim DG FINS lbuniet ;Business Objects;PROD
+FINORD;5.4.4;hslimani skleim DG FINS lbuniet ;Oracle/Forms;PROD
+FINORD-BO;5.4.4;hslimani skleim DG FINS lbuniet ;Business Objects;PROD
+FINORD-BO;5.4.4;hslimani skleim DG FINS lbuniet ;Business Objects;PROD
+FINORD;5.4.4;hslimani skleim DG FINS lbuniet ;Oracle/Forms;PROD
+FINICS-BO;5.4.4;hslimani skleim afournel lbuniet ;Business Objects;PROD
+FINICS-BO;5.4.4;hslimani skleim afournel lbuniet ;Business Objects;PROD
+FINORD;5.4.4;hslimani skleim DG FINS lbuniet ;Oracle/Forms;PROD
+FINICS-BO;5.4.4;hslimani skleim afournel lbuniet ;Business Objects;PROD
+FINICS-BO;5.4.4;hslimani skleim afournel lbuniet ;Business Objects;PROD
+FINICS-BO;5.4.4;hslimani skleim afournel lbuniet ;Business Objects;PROD
+FINORD-BO;5.4.4;hslimani skleim DG FINS lbuniet ;Business Objects;PROD
+JIRA-BO;6.1;fcolson fdubois cpignon vreding tpayeur ;Business Objects;PROD
+MADIS;3.3.0;fcolson DG ITEC mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;Oracle/Java/XML;PROD
+MISS-BO;1.5;dthomassin ysurmely ariosnunez ;Business Objects;PROD
+MISS;4.2;dthomassin ariosnunez ;Adabas/Natural;PROD
+PERICLES core;4.3;pbillard alancini ;Java 2 (SE/EE),  XML;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+ALLOCATION FOYER;;wcornelis ;Client/Server Access;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+ALLOCATION SCOLAIRE;;wcornelis ;Client/Server Access;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+CEDIES;;wcornelis ;Client/Server Access;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+ETUDES SUPERIEURES;;wcornelis ;Client/Server Access;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+PPA;;wcornelis ;Client/Server Access;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+PTP;;wcornelis ;Client/Server Access;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+READMAILWEBI;;wcornelis ;VB;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+STREAMLINE;;iizquierdo tfassian jalambert ;Oracle/Progiciel;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+STREAMLINE;;iizquierdo tfassian jalambert ;Oracle/Progiciel;PROD
+VISEP CORE;1.10.0;mbalsby gpotoms DG COMM DG ITEC gpsallidas mvanpoucke ;J2EE, Hibernate, Spring, ORACLE;PROD
+APA-PEOPLE;;ajuste DG PERS oleboeuf iizquierdo lernewein rsuchecki ;Oracle/Java;PROD
+APPFTU;0.6.0;vledieu emolinari ;Oracle/Java;PROD
+CARMEP;1.3.3;mamabilino DG INLO DG ITEC/EVOLUTION vdreux jyhubert jmas ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+Data Profiling Tool;1.15.0;fcolson mloreng mbourcellier jjosserand ptagu beng yugur aporcher pbeauregard ;J2EE;PROD
+EUROPARL-WebSdi;1.9.17;cbouzas kadam cvagner ;Oracle/Java/XML;DECOMM
+Evacuations;1.0.0;cballestrin ;Oracle/Java;PROD
+FLUID+;3.X;tconrad ;J2EE;PROD
+HRMEDPS;V1.0;mloreng dthomassin vdreux cpignon ;Oracle/Progiciel;PROD
+HRMEDPS;V1.0;mloreng dthomassin vdreux cpignon ;Oracle/Progiciel;PROD
+PPMS;V1.04;DG PRES gbackaert ;J2EE, Hibernate, Spring, ORACLE;PROD
+RSS;1.32;purbain cbouzas ;Oracle/Java;PROD
+Registry of data protection;2.0;pbillard asimondelgado ;J2EE, Hibernate, Spring, ORACLE;PROD
+SPA;1.0;fspyckerelle DG TRAD fhands tconrad ;Oracle/Java;PROD
+STREAMLINE-BO;4.7;gsabbatucci DG PERS tfassian ;Business Objects;PROD
+Think Tank Back Office;1.7.1;purbain cbouzas ;J2EE, Hibernate, Spring, ORACLE;PROD
+WEBAJUR;1.10.1;DG ITEC vdreux jyhubert ;ORACLE/JBOSS/ECLIPSE;PROD
+WebContracts;4.5.2;spaolilli ;J2EE;PROD
+WebContracts;4.5.2;spaolilli ;J2EE;PROD
+eVote in CoP;1.1;ghilbert cbouzas ;HTML/Java;PROD
+ELS;2.20;mricco mamabilino mneu jmas ;ColdFusion;PROD
+GPI-Espaces AutoCAD;16.1;rvanderraaij mricco mamabilino jmas ;Progiciel;PROD
+HRM;1.0.6;iizquierdo lernewein ;Oracle/Java;PROD
+HRMEDPS;V1.0;mloreng dthomassin vdreux cpignon ;Oracle/Progiciel;PROD
+IPMS;4.3.000;DG ITEC emolinari pschmit chervy ;Oracle/Java/XML;PROD
+PAM-SIDEP;4.1.0;DG FINS ;J2EE;PROD
+PERICLES core;4.3;pbillard alancini ;Java 2 (SE/EE),  XML;PROD
+PREQUEST;6.01;DG ITEC aconnell hpereira olaguerre ;Oracle/Powerbuilder;PROD
+ePORTAL;V2.25.0;DG FINS ;Java 2 (SE/EE),  XML;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+VOD Indexing;SELON LES MODULES;cbouzas cvagner ;J2EE, Hibernate, Spring, ORACLE;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+EUROPARL-WebSdi;1.9.17;cbouzas kadam cvagner ;Oracle/Java/XML;DECOMM
+IPMS;4.3.000;DG ITEC emolinari pschmit chervy ;Oracle/Java/XML;PROD
+CSC;;fcolson mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;Java 2 (SE/EE),  XML;PROD
+CSC;;fcolson mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;Java 2 (SE/EE),  XML;PROD
+CSC;;fcolson mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;Java 2 (SE/EE),  XML;PROD
+DECL2;3.0.3;dduroulle DG PRES cbouzas kadam cvagner ;J2EE;DECOMM
+OEIL / Atelier;8.5.0 (18/08/2020);DG PRES DG ITEC gpsallidas ;Oracle/Java/XML;PROD
+APPFTU;0.6.0;vledieu emolinari ;Oracle/Java;PROD
+AWS;1.4.7;purbain cbouzas ;Oracle/Java/XML;DECOMM
+Cat4Trad;1;fspyckerelle DG TRAD fhands tconrad ;Oracle/Java/XML;PROD
+DECL2;3.0.3;dduroulle DG PRES cbouzas kadam cvagner ;J2EE;DECOMM
+EComBack;;lcouteau pbaragan pscaramozzino ;;PROD
+IPMS;4.3.000;DG ITEC emolinari pschmit chervy ;Oracle/Java/XML;PROD
+Newtest;1.2;pwalzer ;;PROD
+OEIL / Observatoire Legislatif;8.5.0 (18/08/2020);DG PRES gpsallidas DG ITEC/EVOLUTION ;Oracle/Java/XML;PROD
+PLM-REP;2.7.3;lcouteau pbaragan ;J2EE, Hibernate, Spring, ORACLE;PROD
+QE2WEB;3.4.0;DG ITEC emolinari pschmit chervy ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+SIB;3.0.1;oisaac ;J2EE;PROD
+XCONV;5.2;purbain cbouzas ;XML/PDF/Word;PROD
+ENG;;DG COMM svillemin apannekoecke anicolas cmihailescu ;J2EE, Hibernate, Spring, ORACLE;PROD
+IPMS;4.3.000;DG ITEC emolinari pschmit chervy ;Oracle/Java/XML;PROD
+Newtest;1.2;pwalzer ;;PROD
+ENG;;DG COMM svillemin apannekoecke anicolas cmihailescu ;J2EE, Hibernate, Spring, ORACLE;PROD
+IPMS;4.3.000;DG ITEC emolinari pschmit chervy ;Oracle/Java/XML;PROD
+Newtest;1.2;pwalzer ;;PROD
+PREQUEST;6.01;DG ITEC aconnell hpereira olaguerre ;Oracle/Powerbuilder;PROD
+QE2WEB;3.4.0;DG ITEC emolinari pschmit chervy ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+UNIQUE DOCUMENT IDENTIFIER;3.1.3;fcolson mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;J2EE;PROD
+WebContracts;4.5.2;spaolilli ;J2EE;PROD
+APPFTU;0.6.0;vledieu emolinari ;Oracle/Java;PROD
+SPA;1.0;fspyckerelle DG TRAD fhands tconrad ;Oracle/Java;PROD
+SPA Plus;;tconrad ;JAVA;PROD
+APPFTU;0.6.0;vledieu emolinari ;Oracle/Java;PROD
+Aggregator;1;fspyckerelle rrebane tconrad ;Oracle/Java;PROD
+IPMS;4.3.000;DG ITEC emolinari pschmit chervy ;Oracle/Java/XML;PROD
+New Prequest;0.0.21RC1;aconnell ;Oracle/JAVA/J2EE/XML/C/JNI;PROD
+QE2WEB;3.4.0;DG ITEC emolinari pschmit chervy ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+SPA Plus;;tconrad ;JAVA;PROD
+TFLOW / PROFIL - BO;4.7.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+TFLOW / PROFIL - BO;4.7.0;fcolson fdubois DG ITEC/EVOLUTION vreding tpayeur ;Business Objects;PROD
+FLUID+;3.X;tconrad ;J2EE;PROD
+OEIL / Atelier;8.5.0 (18/08/2020);DG PRES DG ITEC gpsallidas ;Oracle/Java/XML;PROD
+HERMES;1.1;DG PRES DG ITEC/EVOLUTION DG ITEC/OPERATIONS DG ITEC/SUPPORT pberninger ;Documentum;PROD
+SPA Plus;;tconrad ;JAVA;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+CONNECT;1.9;ghilbert cbouzas ;J2EE, Hibernate, Spring, ExtJS, ORACLE;PROD
+DOCEPI;2.1;DG ITEC cbouzas kadam cvagner llamorte ;Oracle/Java/XML;PROD
+PLM-REP;2.7.3;lcouteau pbaragan ;J2EE, Hibernate, Spring, ORACLE;PROD
+XCONV;5.2;purbain cbouzas ;XML/PDF/Word;PROD
+DOCEPI;2.1;DG ITEC cbouzas kadam cvagner llamorte ;Oracle/Java/XML;PROD
+FTU;5.1.3;DG IPOL cbouzas kadam cvagner ;Oracle/Java/XML;DECOMM
+RSS;1.32;purbain cbouzas ;Oracle/Java;PROD
+Think Tank Back Office;1.7.1;purbain cbouzas ;J2EE, Hibernate, Spring, ORACLE;PROD
+APPFTU;0.6.0;vledieu emolinari ;Oracle/Java;PROD
+DOCEPI;2.1;DG ITEC cbouzas kadam cvagner llamorte ;Oracle/Java/XML;PROD
+FTU;5.1.3;DG IPOL cbouzas kadam cvagner ;Oracle/Java/XML;DECOMM
+Refonte Inside;1;oisaac mmicucci ;Jahia;PROD
+BORNES;2.1.5;DG INLO DG ITEC pscaramozzino ;J2EE, Hibernate, Spring, ExtJS, ORACLE;DECOMM
+CRE Meta Data Storage;SELON LES MODULES;DG ITEC cbouzas cvagner ;J2EE, Hibernate, Spring, ORACLE;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+eMeeting;;lcouteau pbaragan pscaramozzino ;;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+BORNES;2.1.5;DG INLO DG ITEC pscaramozzino ;J2EE, Hibernate, Spring, ExtJS, ORACLE;DECOMM
+VoD Transmitter;SELON LES MODULES;cbouzas cvagner ;J2EE, Hibernate, Spring, ORACLE;PROD
+SEANCE EN DIRECT;SELON LES MODULES;DG PRES rpochet cbouzas cvagner ;J2EE;PROD
+CSC;;fcolson mbourcellier DG ITEC/EVOLUTION jjosserand ptagu beng yugur aporcher pbeauregard ;Java 2 (SE/EE),  XML;PROD
